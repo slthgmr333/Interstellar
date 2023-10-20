@@ -1,3 +1,5 @@
+Thanks to Interstellat for allll of the code :)
+
 # Interstellar V5
 
 Interstellar is one of the most modern and popular unblocking sites. 
